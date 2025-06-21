@@ -1,16 +1,31 @@
-## Hi there 👋
+# Olá, eu sou Alessandro Veloso 👋
 
-<!--
-**wAlessandro/wAlessandro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Aqui você vai encontrar meus projetos, estudos e experimentos com programação.
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estudando e desenvolvendo projetos em Python.
+- 🌱 Buscando aprender mais sobre desenvolvimento web e ciência de dados.
+- 👯 Aberto a colaborar em projetos interessantes.
+- 💬 Pergunte-me sobre Python, lógica de programação e resolução de problemas.
+- 📫 Como me encontrar:
+  - LinkedIn: [seu-linkedin-aqui](https://www.linkedin.com/in/seu-perfil)
+  - Email: seuemail@exemplo.com
+
+## Projetos em destaque
+
+- [Projeto 1](link-do-projeto) - breve descrição do projeto.
+- [Projeto 2](link-do-projeto) - breve descrição do projeto.
+
+## Ferramentas e Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## Contato
+
+Sinta-se à vontade para entrar em contato!
+
+---
+
+Obrigado pela visita! 🚀
